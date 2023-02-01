@@ -1,3 +1,6 @@
++++
+
++++
 <header>
   <img src="{{ .Site.BaseURL }}/img/logo.png" alt="Logo">
   <nav>
@@ -11,5 +14,3 @@
 <div class="hero">
   <h1>Welcome to the Phantom Warriors Esports Team</h1>
 </div>
-
-
